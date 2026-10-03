@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 public class SolarMonitor {
-
-    // Method to calculate total energy
     public static double calculateTotalEnergy(double morningEnergy, double eveningEnergy) {
         return morningEnergy + eveningEnergy;
     }
